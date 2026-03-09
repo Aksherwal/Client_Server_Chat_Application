@@ -8,6 +8,7 @@ A simple multi client chat application build using python socket programming.
 * `client.py` - The chat client used by individual users to connect to the server.
 
 ## How to Run
+> Make sure you have python 3.5+ version 
 
 1. **Start the Server**
    Open a terminal go to chat-app directory and run:
